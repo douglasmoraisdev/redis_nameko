@@ -19,7 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 	install_requires=[
-        'nameko==3.0.0-rc8',
+        'nameko==3.0.0rc10',
         'redis'
     ],
     dependency_links=['https://github.com/douglasmoraisdev/backoff_retry/tarball/master#egg=backoff_retry']
